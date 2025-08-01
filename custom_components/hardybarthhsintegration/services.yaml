@@ -1,0 +1,19 @@
+wallbox_set_chargemode:
+  description: Setzt den Lade-Modus (Eco, Full etc.)
+  fields:
+    chargemode:
+      description: Modus-String für salia/chargemode
+      example: "eco"
+
+wallbox_pause_charging:
+  description: Pausiert das Laden
+  fields:
+    pause_charge:
+      description: true/false für salia/pausecharging
+
+wallbox_setcurrent:
+  description: Setzt manuelle Ladegrenze (Ampere)
+  fields:
+    limit:
+      description: Zahl wie 0, 6, 16
+      example: 6

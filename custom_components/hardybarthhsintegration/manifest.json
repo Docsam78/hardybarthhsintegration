@@ -1,0 +1,11 @@
+{
+  "codeowners": ["Docsam78"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Docsam78/HardyBarthHSIntegration",
+  "domain": "hardybarthhsintegration",
+  "iot_class": "cloud_push",
+  "name": "HardyBarth HS Integration",
+  "requirements": [],
+  "version": "1.0.0"
+}

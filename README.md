@@ -1,8 +1,15 @@
-<<<<<<< HEAD
-# HardyBarth HS Integration for Home Assistant
+HardBarth Wallbox Integration für Home Assistant
+testet with cPμ2 Wallbox
 
-## Installation
-=======
-# HardyBarthHSIntegration
-POC of Hardy Barth Integration
->>>>>>> c630707a9285fcd1259736c9952831c046e0e1a6
+Installation is straight forward
+1. Add Integration
+2. Setup IP and Update Intervall
+
+Actual Features:
+- Start/Stop Charging
+- Change Eco/Power Mode
+- Change Eco+ Mode
+- Sensors for
+    - Power, Voltage
+
+

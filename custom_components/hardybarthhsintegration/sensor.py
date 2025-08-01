@@ -61,8 +61,6 @@ class WallboxSensor(SensorEntity,CoordinatorEntity):
             state_class = SensorStateClass.MEASUREMENT
             device_class = SensorDeviceClass.CURRENT
 
-        
-
         self.entity_description = SensorEntityDescription(
             key=path,
             name=name,
